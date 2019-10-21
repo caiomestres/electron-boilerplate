@@ -4,6 +4,7 @@
 Um boilerplate básico para projetos com Electron
 
 # Versão
+
  - Node : 12.4.0
 
 # Features
@@ -12,7 +13,12 @@ Um boilerplate básico para projetos com Electron
  - Gerenciador de estados da janela com [electron-window-state](https://www.npmjs.com/package/electron-window-state)  
 
 # Comandos
-Scripts do package.json
+
+Para instalar as dependências
+```shell
+npm i
+```
+
 ## Para rodar o projeto
 ```shell
 npm start
@@ -54,7 +60,6 @@ Se você quer debugar coisas como require, etc, é necessário outro comando :
 npm run inspect-brk
 ```
 ### Todo
-
  - [ ] Adicionar scripts de build com electron-builder
 
 ### Autor
