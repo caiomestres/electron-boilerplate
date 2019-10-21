@@ -61,6 +61,7 @@ npm run inspect-brk
 ```
 ### Todo
  - [ ] Adicionar scripts de build com electron-builder
+ - [ ] Adicionar Auto-update usando github
 
 ### Autor
 [Caio Mestres](https://www.linkedin.com/in/caio-mestres-77bbb614b/)
