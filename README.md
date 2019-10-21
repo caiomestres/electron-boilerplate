@@ -52,6 +52,9 @@ Se você quer debugar coisas como require, etc, é necessário outro comando :
 ```shell
 npm run inspect-brk
 ```
-# Todo
+### Todo
 
  - [ ] Adicionar scripts de build com electron-builder
+
+### Autor
+[enter link description here](https://www.linkedin.com/in/caio-mestres-77bbb614b/)
