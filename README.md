@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen) ![](https://img.shields.io/badge/license-The%20Unlicense-blue) ![]https://img.shields.io/github/issues/caiomestres/electron-boilerplate
 # Electron Boilerplate
 
 Um boilerplate básico para projetos com Electron
