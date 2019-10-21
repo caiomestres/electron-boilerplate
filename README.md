@@ -57,4 +57,4 @@ npm run inspect-brk
  - [ ] Adicionar scripts de build com electron-builder
 
 ### Autor
-[enter link description here](https://www.linkedin.com/in/caio-mestres-77bbb614b/)
+[Caio Mestres](https://www.linkedin.com/in/caio-mestres-77bbb614b/)
