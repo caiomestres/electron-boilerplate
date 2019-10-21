@@ -1,0 +1,33 @@
+{
+  "name": "electron-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "watch": "nodemon --exec electron .",
+    "start": "electron .",
+    "inspect": "electron --inspect=5858 .",
+    "inspect-brk": "electron --inspect-brk=5858 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiomestres/electron-boilerplate.git"
+  },
+  "keywords": [
+    "Electron",
+    "Boilerplate"
+  ],
+  "author": "",
+  "license": "The Unlicense",
+  "bugs": {
+    "url": "https://github.com/caiomestres/electron-boilerplate/issues"
+  },
+  "homepage": "https://github.com/caiomestres/electron-boilerplate#readme",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "electron-window-state": "^5.0.3"
+  }
+}
