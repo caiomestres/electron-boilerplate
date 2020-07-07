@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/caiomestres/electron-boilerplate#readme",
   "devDependencies": {
-    "electron": "^6.0.12",
+    "electron": "^9.1.0",
     "nodemon": "^1.19.4"
   },
   "dependencies": {
